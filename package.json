@@ -6,6 +6,9 @@
   "repository": "https://github.com/alannabouloy/ws-server.git",
   "author": "Alanna <lanihope@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "mocha --require test/setup.js"
+  },
   "dependencies": {
     "express": "^4.19.2"
   },
