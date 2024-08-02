@@ -16,9 +16,9 @@ First step of course is to run a `yarn install` to get the dependencies you will
 
 Currently this application has only two scripts to run, `yarn start` will start the application, and `yarn test` will run the tests.
 
-## Comments
+## Note on Comments
 
-You will notice comments on some of the code explaining the purpose for each line of code. This is part of a training series currently being developed for Substack called a Swiftie Introduction to Backend Development. The comments will appear in the commit where the code was initially added and removed in subsequent commits so that if you would like to follow along with the development process, you can look at the commit history and read what is being done.
+You will notice comments on some of the code explaining the purpose for each line of code. This is part of a training series currently being developed for Substack called a Swiftie Introduction to Backend Development. The comments will appear in the commit where the code was initially added and removed in subsequent commits so that if you would like to follow along with the development process, you can look at the commit history and read what is being done. This project is actually a duplicate of a different repository which is farther along. I am going back and doing each step with the comments so as to give a clear history for any who wish to follow along. 
 
 ## TDD
 
